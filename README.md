@@ -1,11 +1,16 @@
 <h1 align="center">Hello there! 👋, I am Omkar Dhomane</h1>
-<h3 align="center">This is my GitHub portfolio which contains information about my background, skills, experience and some of my interesting projects. If you share the same passion for technology as I do, Let us connect!</h3>
+<h3 align="center">This is my GitHub Portfolio which contains information about my professional background, core skills, experience and some of my interesting projects. If you share the same passion for technology as I do, Let us connect!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhomane" alt="dhomane" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhomane](https://github.com/dhomane)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhomane&column=7&margin-w=15&margin-h=15" alt="dhomane" /></a> </p>
 
-- 📫 How to reach me **omkardhomane@gmail.com**
+
+- 👨‍💻 All of my projects are available at - [https://github.com/dhomane](https://github.com/dhomane)
+
+- 📫 Here's how to reach me - **omkardhomane@gmail.com**
+
+- 📄 My Portfolio Websites - [https://omkardhomane.com](https://www.omkardhomane.com) | [https://dhomane.com](https://www.dhomane.com)
 
 - 📄 Know about my experiences [https://www.omkardhomane.com](https://www.omkardhomane.com)
 
