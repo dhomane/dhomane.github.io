@@ -1,2 +1,1 @@
-# dhomane.github.io
-Professional Portfolio
+# DevCard Template
