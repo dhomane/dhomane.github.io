@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhomane&column=7&margin-w=15&margin-h=15" alt="dhomane" /></a> </p>
 
-
 - 👨‍💻 All of my projects are available at - [https://github.com/dhomane](https://github.com/dhomane)
 
 - 📫 Here's how to reach me - **omkardhomane@gmail.com**
@@ -28,5 +27,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dhomane"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhomane" /></a></p><br><br>
-
-
