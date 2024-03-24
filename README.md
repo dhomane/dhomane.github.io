@@ -9,7 +9,7 @@
 
 - 📫 Here's how to reach me - **omkardhomane@gmail.com**
 
-- 📄 My Portfolio Websites - [https://omkardhomane.com](https://www.omkardhomane.com) | [https://dhomane.com](https://www.dhomane.com)
+- 📄 My Portfolio Websites - [https://omkardhomane.com](https://www.omkardhomane.live) | [https://dhomane.tech](https://www.dhomane.com)
 
 - 📄 Know about my experiences [https://www.omkardhomane.com](https://www.omkardhomane.com)
 
